@@ -7,4 +7,4 @@ I am a hobbyst in graphic & web design. I thought programming was a little more 
 
 Schooling Myself Journal Notes:
 
-Did not understand why my recent commits or edits wasn't showing up on the pull request page then I realized I did not create a branch off the master branch.
+Did not understand why my recent commits or edits weren't showing up on the pull request page then I realized I did not create a branch off the master branch.
